@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "<eri>/*c": ["./src/*"]
+    }
+  }
+}
